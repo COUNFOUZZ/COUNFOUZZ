@@ -6,7 +6,7 @@
 <table>
   <thead>
       <tr>
-        <th colspan="2">Project</th>
+        <th colspan="2">Projects</th>
       </tr>
   </thead>
   <tbody>
