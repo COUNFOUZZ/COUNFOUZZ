@@ -34,6 +34,9 @@
         <td>Pipex</td>
         <td><a href="https://github.com/COUNFOUZZ/19-Pipex"><img src="https://badge42.vercel.app/api/v2/cl9385jfs00260gmzb7isbduz/project/2812391" alt="aabda's 42 pipex Score" /></a></td>
       </tr>
+      <td>Push_Swap</td>
+        <td><a href="https://github.com/COUNFOUZZ/19-Push_Swap"><img src="https://badge42.vercel.app/api/v2/cl9385jfs00260gmzb7isbduz/project/2849168" alt="aabda's 42 push_swap Score" /></a></td>
+      </tr>
   </tbody>
 </table>
 
